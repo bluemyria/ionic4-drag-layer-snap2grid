@@ -51,7 +51,7 @@ export class DraggableBoxComponent {
             position: 'absolute',
             transform,
             WebkitTransform: transform,
-            // hide the original element while dragging
+            // hide the original element while dragging?
             opacity: isDragging ? 0.4 : null,
             height: isDragging ? 1 : null
         };
