@@ -1,0 +1,7 @@
+{
+  "name": "dnd-draglayer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
