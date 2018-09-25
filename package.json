@@ -13,6 +13,8 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-skyhook/core": "^1.0.11",
+    "@angular-skyhook/multi-backend": "^1.0.11",
     "@angular/common": "~6.1.1",
     "@angular/core": "~6.1.1",
     "@angular/forms": "~6.1.1",
@@ -25,6 +27,8 @@
     "@ionic-native/status-bar": "5.0.0-beta.15",
     "@ionic/angular": "4.0.0-beta.7",
     "core-js": "^2.5.3",
+    "react-dnd-html5-backend": "^5.0.1",
+    "react-dnd-touch-backend": "^0.5.1",
     "rxjs": "6.2.2",
     "zone.js": "^0.8.26"
   },
