@@ -12,6 +12,7 @@ import { CustomDragLayerComponent } from '../custom-drag-layer/custom-drag-layer
 import { BoxComponent } from '../box-component/box.component';
 import { DraggableBoxComponent } from '../draggable-box/draggable-box.component';
 import { DragContainerComponent } from '../drag-container/drag-container.component';
+import { DropContainerComponent } from '../drop-container/drop-container.component';
 import { BoxDragPreviewComponent } from '../box-drag-preview/box-drag-preview.component';
 
 import { SkyhookMultiBackendModule } from '@angular-skyhook/multi-backend';
@@ -40,6 +41,7 @@ import { customMultiBackend } from '../customMultiBackend';
     BoxComponent,
     DraggableBoxComponent,
     DragContainerComponent,
+    DropContainerComponent,
     BoxDragPreviewComponent
   ],
   providers: [SkyhookDndService]
